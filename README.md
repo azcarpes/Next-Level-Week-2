@@ -1,0 +1,1 @@
+The project we created within Rocket Seat's NLW 2 event. Not finished yet, wanna learn JS before trying the second part.
